@@ -1,0 +1,132 @@
+Arch: win64
+CompatData: ''
+Creation_Date: '2024-12-31 15:50:21.661978'
+Custom_Path: false
+DLL_Overrides: {}
+DXVK: dxvk-2.5
+Environment: Gaming
+Environment_Variables:
+    DXVK_FRAME_RATE: '60'
+External_Programs:
+    4e36b249-15da-45d6-80a2-a221a08f0dcd:
+        executable: OR2FXT.exe
+        folder: /var/home/patatasdeck/.var/app/com.usebottles.bottles/data/bottles/bottles/Outrun2006/drive_c/Program
+            Files (x86)/Outrun 2006
+        id: 4e36b249-15da-45d6-80a2-a221a08f0dcd
+        name: OR2FXT
+        path: /var/home/patatasdeck/.var/app/com.usebottles.bottles/data/bottles/bottles/Outrun2006/drive_c/Program
+            Files (x86)/Outrun 2006/OR2FXT.exe
+    a7788c4f-8308-4a4a-bc95-377988176931:
+        executable: OR2006C2C.EXE
+        folder: /var/home/patatasdeck/.var/app/com.usebottles.bottles/data/bottles/bottles/Outrun2006/drive_c/Program
+            Files (x86)/Outrun 2006
+        id: a7788c4f-8308-4a4a-bc95-377988176931
+        name: OR2006C2C
+        path: /var/home/patatasdeck/.var/app/com.usebottles.bottles/data/bottles/bottles/Outrun2006/drive_c/Program
+            Files (x86)/Outrun 2006/OR2006C2C.EXE
+        removed: true
+    b3db1250-7596-48a6-87f8-77836c6962fd:
+        executable: FXTConfig.exe
+        folder: /var/home/patatasdeck/.var/app/com.usebottles.bottles/data/bottles/bottles/Outrun2006/drive_c/Program
+            Files (x86)/Outrun 2006
+        id: b3db1250-7596-48a6-87f8-77836c6962fd
+        name: FXTConfig
+        path: /var/home/patatasdeck/.var/app/com.usebottles.bottles/data/bottles/bottles/Outrun2006/drive_c/Program
+            Files (x86)/Outrun 2006/FXTConfig.exe
+    df001677-65b1-471f-9193-32a7c92f6408:
+        arguments: null
+        dxvk: null
+        dxvk_nvapi: null
+        executable: Config.exe
+        folder: /var/home/patatasdeck/.var/app/com.usebottles.bottles/data/bottles/bottles/Outrun2006/drive_c/Program
+            Files (x86)/Outrun 2006
+        fsr: null
+        gamescope: null
+        icon: com.usebottles.bottles-program
+        id: df001677-65b1-471f-9193-32a7c92f6408
+        name: Config
+        path: /var/home/patatasdeck/.var/app/com.usebottles.bottles/data/bottles/bottles/Outrun2006/drive_c/Program
+            Files (x86)/Outrun 2006/Config.exe
+        post_script: null
+        pre_script: null
+        pulseaudio_latency: null
+        removed: true
+        virtual_desktop: null
+        vkd3d: null
+Installed_Dependencies:
+- d3dx9
+- msls31
+- arial32
+- times32
+- courie32
+- d3dcompiler_43
+- d3dcompiler_47
+- mono
+- gecko
+- vbrun6
+Language: sys
+LatencyFleX: latencyflex-v0.1.1
+NVAPI: dxvk-nvapi-v0.7.1
+Name: Outrun2006
+Parameters:
+    custom_dpi: 96
+    decorated: true
+    discrete_gpu: true
+    dxvk: true
+    dxvk_nvapi: false
+    fixme_logs: false
+    fsr: true
+    fsr_quality_mode: balanced
+    fsr_sharpening_strength: 2
+    fullscreen_capture: false
+    gamemode: false
+    gamescope: false
+    gamescope_borderless: false
+    gamescope_fps: 0
+    gamescope_fps_no_focus: 0
+    gamescope_fullscreen: true
+    gamescope_game_height: 0
+    gamescope_game_width: 0
+    gamescope_scaling: false
+    gamescope_window_height: 0
+    gamescope_window_width: 0
+    latencyflex: false
+    mangohud: false
+    mangohud_display_on_game_start: true
+    mouse_warp: true
+    obsvkc: false
+    pulseaudio_latency: false
+    renderer: gl
+    sandbox: false
+    sync: fsync
+    take_focus: false
+    use_be_runtime: true
+    use_eac_runtime: true
+    use_runtime: false
+    use_steam_runtime: false
+    versioning_automatic: true
+    versioning_compression: true
+    versioning_exclusion_patterns: false
+    virtual_desktop: false
+    virtual_desktop_res: 1280x720
+    vkbasalt: false
+    vkd3d: false
+    vmtouch: false
+    vmtouch_cache_cwd: false
+Path: Outrun2006
+Runner: soda-9.0-1
+RunnerPath: ''
+Sandbox:
+    share_net: false
+    share_sound: false
+State: 0
+Uninstallers: {}
+Update_Date: '2024-12-31 18:15:41.891260'
+VKD3D: vkd3d-proton-2.13
+Versioning: false
+Versioning_Exclusion_Patterns: []
+Windows: win10
+WorkingDir: ''
+data: {}
+run_in_terminal: false
+session_arguments: ''
